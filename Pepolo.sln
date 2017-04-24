@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D965A602-6FB1-A3EB-3ED8-B96755CFB998}") = "Pepolo", "Assembly-CSharp.csproj", "{4930624E-1A3D-D748-D300-A8A287BDC84A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4930624E-1A3D-D748-D300-A8A287BDC84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4930624E-1A3D-D748-D300-A8A287BDC84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4930624E-1A3D-D748-D300-A8A287BDC84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4930624E-1A3D-D748-D300-A8A287BDC84A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
