@@ -1,7 +1,7 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{D965A602-6FB1-A3EB-3ED8-B96755CFB998}") = "Pepolo", "Assembly-CSharp.csproj", "{4930624E-1A3D-D748-D300-A8A287BDC84A}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pepolo", "Assembly-CSharp.csproj", "{4930624E-1A3D-D748-D300-A8A287BDC84A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
